@@ -9,5 +9,4 @@ The Bike landinding page was created using the following technologies:
 - SCSS
 
 ## Preview Link
-[DEMO LINK]([[https://izzetyusufov.github.io/Eco-Cosmetics-landing/](https://izzetyusufov.github.io/Eco-Cosmetics-landing/)https://izzetyusufov.github.io/Eco-Cosmetics-landing/])
-
+[DEMO LINK](https://izzetyusufov.github.io/Eco-Cosmetics-landing/)
